@@ -1,4 +1,41 @@
-## Welcome to GitHub Pages
+# Experiments Go Here
+
+This writing is practice.
+
+Malcome Gladwell expresses in his book, "Outliers", the idea that that it takes 10000 hours of deliberate practice to master a subject.
+
+My work here may not be my best. But this is the path to continued, lifelong improvement.
+
+## About Me
+I'm a Product manager, technology optimist, and music artist.
+
+### The 80's
+I was born in 1984. 
+
+### The 90's
+I started learning how to program when I was very young, on an old Apple IIe computer, in 1994. My father had recovered the machine from an Edison Company dumpster, where he worked as an electrician. I was an avid reader of 
+
+### Y2k - The 2000's
+I was a slightly akward, blue-haired punky nerd. I played in a few local bands. I carried my beat up, sticker-covered Fender Squire Strat around campus. I graduated college with a degree in Music, and got my dream job working at Hopeless Records. This is when I realized my love for Excel was above average. I became an Excel Master.
+
+### 2010's
+I left the music industry and started working at AT&T Interactive. I was hired for my Excel mastery, and had the opportunity to participate in a [Startup-in-the-org]() environment. As a Data Analyst, I worked closely with the Product and Operations teams on all needs related to a "Deal of the Day" Groupon me-too product. 
+
+### 2020's
+I'm beginning to understand the significance and nuance to storytelling, beyond an artform. Product Managers write stories. Writers and poets and musicians and artists of all kinds are storytellers throughout history. But these days, we're learning something different. We know that humans are unreliable narrators. And we are sharing stories more than other. History has proven, time and time again, that stories don't need to be true, to be effective.
+
+Hans Rosling's book "Factfulness" was what caused me to reach a tipping point. I understand the difference now, between traditional storytelling. And storytelling with data.
+
+We use data to describe, analyze and understand reality. 
+Stories create reality. 
+
+Combine this with the power of goal-setting, such as the OKR Framework, where get real measurable goals that contribute to long-term objectives.
+
+These are the conditions that allow us to experiment. Try a lot of things. Let the data drive.
+
+--------------------------
+
+**I'm goin to leave this markup here, for reference**
 
 You can use the [editor on GitHub](https://github.com/edfig/experiments/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
