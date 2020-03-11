@@ -7,13 +7,13 @@ Malcome Gladwell expresses in his book, "Outliers", the idea that that it takes 
 My work here may not be my best. But this is the path to continued, lifelong improvement.
 
 ## About Me
-I'm a Product manager, technology optimist, and music artist.
+I'm a Product Manager, technology optimist, and music artist.
 
 ### The 80's
-I was born in 1984. 
+I was born in 1984, in Los Angeles, California, United States. My earliest memories include Sesame Street and staring at the sun. 
 
 ### The 90's
-I started learning how to program when I was very young, on an old Apple IIe computer, in 1994. My father had recovered the machine from an Edison Company dumpster, where he worked as an electrician. I was an avid reader of 
+I started learning how to program when I was very young, on an old Apple IIe computer, in 1994. My father had recovered the machine from an Edison Company dumpster, where he worked as an electrician. I was an avid reader of MacWorld Magazine. I was one of the school's first computer lab assistants, the only kid with the password for admin rights on those old Mac Classics. (The password was "sphincter".)
 
 ### Y2k - The 2000's
 I was a slightly akward, blue-haired punky nerd. I played in a few local bands. I carried my beat up, sticker-covered Fender Squire Strat around campus. I graduated college with a degree in Music, and got my dream job working at Hopeless Records. This is when I realized my love for Excel was above average. I became an Excel Master.
