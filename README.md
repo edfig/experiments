@@ -16,7 +16,13 @@ I was born in 1984, in Los Angeles, California, United States. My earliest memor
 I started learning how to program when I was very young, on an old Apple IIe computer, in 1994. My father had recovered the machine from an Edison Company dumpster, where he worked as an electrician. I was an avid reader of MacWorld Magazine. I was one of the school's first computer lab assistants, the only kid with the password for admin rights on those old Mac Classics. (The password was "sphincter".)
 
 ### Y2k - The 2000's
-I was a slightly akward, blue-haired punky nerd. I played in a few local bands. I carried my beat up, sticker-covered Fender Squire Strat around campus. I graduated college with a degree in Music, and got my dream job working at Hopeless Records. This is when I realized my love for Excel was above average. I became an Excel Master.
+I was an akward, blue-haired punky nerd. I played in a few local bands. I carried my beat up, sticker-covered Fender Squire Strat everywhere. 
+
+I worked at a Children's Theatre Company for a few years. First, as a pianist for a kid-friendly rendition of Grease. Then various roles over the years including Webmaster, Filemaker and Office Admin, and helped with everything from set building, lighting, and more.
+
+I was an award-winning sales rep at Best Buy, Pasadena. I started working in their PCHO (Personal Computer Home Office), and was quickly adopted by the Geek Squad. Our store was one of the Personal Shopping Assistant Pilot Stores, and I became one of the first Personal Shoppers. I got ridiculously good at Guitar Hero in the downtime.
+
+I graduated college with a degree in Music, and got my dream job working at an indie record label. This is when I realized my love for Excel was above average. I became an Excel Master. It was a time before Big Data, and we were the subject of rounding errors due to limitations in the file formats of the time. I learned do much.
 
 ### 2010's
 I left the music industry and started working at AT&T Interactive. I was hired for my Excel mastery, and had the opportunity to participate in a [Startup-in-the-org]() environment. As a Data Analyst, I worked closely with the Product and Operations teams on all needs related to a "Deal of the Day" Groupon me-too product. 
